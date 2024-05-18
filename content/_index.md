@@ -11,7 +11,7 @@ sections:
         Accessible
         Healthcare Lab
       image:
-        filename: welcome.jpeg
+        filename: welcome.png
       text: |
         <br>
         
