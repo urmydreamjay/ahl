@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Accessible
-        Healthcare Lab
+        AHL
       image:
         filename: welcome.png
       text: |
