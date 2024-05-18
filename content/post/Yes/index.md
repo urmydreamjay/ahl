@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-Thank you for your support, Soyoung!
+Thanks for your support, Soyoung!
 
 <!--more-->
 
